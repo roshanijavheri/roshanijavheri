@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @roshanijavheri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @roshanijavheri😊
+- 🖥️ I’m A Software Development Engineer
+- 👀 I'm interested in Data Science, AI, ML
+- 🌱 I’m looking to collaborate on Data analytics, MERN Stack
+- 📩 You can reach me at roshani0808javheri@gmail.com
 
 <!---
 roshanijavheri/roshanijavheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
