@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roshanijavheri😊
 - 🖥️ I’m A Software Development Engineer
-- 👀 I'm interested in Data Science, AI, ML
+- 👀 I'm interested in Data Science
 - 🌱 I’m looking to collaborate on Data analytics, MERN Stack
 - 📩 You can reach me at roshani0808javheri@gmail.com
 
