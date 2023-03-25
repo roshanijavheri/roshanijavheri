@@ -5,16 +5,15 @@
 
 A Computer Science Graduate, a Self-taught Programmer love to explore different technologies. 
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in C++, JAVA, PYTHON, JAVASCRIPT, SQL and Data Structures & Algorithms. Passionate about learning new technologies. Ability to translate business requirements into technical solutions.
+Strong in design and integration with intuitive problem-solving skills. Proficient in Data Analytics and Data Visualisation. Passionate about learning new technologies. Ability to translate business requirements into technical solutions.
 
 My Technical Skills include :
-• MERN STACK 
-• Web Development 
-• Networking basics
 • Data Analysis 
-• SQL & MongoDB 
+• SQL
+• PowerBI
+• Tableau
 • Android development 
-• Programming Skills - C, C++, Java, JavaScript, Python
+• Programming Skills - Python, C/C++, JavaScript
 
 <!---
 roshanijavheri/roshanijavheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
